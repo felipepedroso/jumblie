@@ -1,0 +1,11 @@
+package br.pedroso.jumblie.utils
+
+import androidx.compose.ui.Modifier
+
+fun Modifier.applyModifierWhen(condition: Boolean, modifier: Modifier.() -> Modifier): Modifier {
+    return if (condition) {
+        then(modifier(Modifier))
+    } else {
+        this
+    }
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jumblie</string>
+    <string name="todays_theme">Today\'s Theme:</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="deselect_all">Deselect all</string>
+    <string name="submit">Submit</string>
+    <string name="incorrect_guesses">Incorrect guesses (%d):</string>
+    <string name="credits_phrase">Jumblie was originally created by @cassidoo!</string>
+</resources>
