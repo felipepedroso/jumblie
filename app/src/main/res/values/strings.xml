@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Jumblie</string>
+    <string name="todays_theme">Today\'s Theme:</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="deselect_all">Deselect all</string>
+    <string name="submit">Submit</string>
+    <string name="incorrect_guesses">Incorrect guesses (%d)</string>
+    <string name="credits_phrase"> was originally created by @cassidoo!</string>
+    <string name="paused">Paused</string>
+    <string name="resume">Resume</string>
+    <string name="start">Start</string>
+    <string name="how_to_play_jumblie_title">How to play Jumblie</string>
+    <string-array name="how_to_play_jumblie">
+        <item>There are exactly four words hidden amongst the letters, and all letters are used exactly once. The words will always be between 4 and 9 letters long.</item>
+        <item>Click on the letters to spell a word. When you have a word you want to submit, click the \"Submit\" button. If the word is one of the daily words, it will be added to your found list of words. Find all four words as fast as you can!</item>
+        <item>Each successful word is assigned a color:</item>
+        <item>🔴 Shortest word\n🟠 ↓\n🟢\n🔵 Longest</item>
+        <item>If you\'re struggling, you can give up after at least 5 incorrect guesses.</item>
+    </string-array>
+    <string name="got_it">Got it!</string>
+    <string name="correct_guesses">Correct guesses (%d)</string>
+    <string name="no_correct_guesses">No correct guesses so far.</string>
+</resources>
